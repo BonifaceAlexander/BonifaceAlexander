@@ -26,7 +26,7 @@ I am actively building **open-source AI tools**, delivering **AI lectures**, wri
 
 ---
 
-## 🏆 **Highlights **
+## 🏆 Highlights 
 ### **💡 Thought Leadership & Public Contributions**
 - 📝 **Author of a production-grade RAG system case study** (Medium)  
 - 📦 **Published a PyPI package** for LLM cost tracking & optimization  
@@ -68,13 +68,6 @@ An OpenAI MCP tool for contextual, health-aware AI food recommendations.
 <p align="left">
   <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>www.linkedin.com/in/boniface-alexander</a>
   <a href="YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
-
----
-
-## 🐍 **Contribution Graph**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bonifacealexander/bonifacealexander/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
