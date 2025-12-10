@@ -67,7 +67,7 @@ An OpenAI MCP tool for contextual, health-aware AI food recommendations.
 ## 🌐 **Socials**
 <p align="left">
   <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>www.linkedin.com/in/boniface-alexander</a>
-  <a href="YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/>https://medium.com/@bonnybon7</a>
 </p>
 
 ---
