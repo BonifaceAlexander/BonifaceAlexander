@@ -35,9 +35,10 @@ I actively contribute to **open-source AI frameworks**, build **agentic architec
 
 ## 🏆 **Highlights**
 ### **💡 Thought Leadership & Public Contributions**
-- 🧩 **Merged contributor to LangChain–Weaviate integration**
-  - Collaborated via PR review cycles with maintainers
-  - Focused on **Making simsimd an Optional Dependency with Automatic NumPy/SciPy Fallback**
+- 🧩 **Merged contributor to LangChain–Weaviate**
+  - Authored PR #249: *Make `simsimd` an Optional Dependency with Automatic NumPy/SciPy Fallback for Vector Distance Computation*
+  - Improved reliability and portability of vector similarity search in RAG pipelines
+  - Reduced installation and CI failures in enterprise deployment environments
 - 📝 **Author of a production-grade RAG system case study** (Medium)
 - 📦 **Published a PyPI package** for LLM cost tracking & optimisation
 - 🧪 **Built MCP-based agents** (OpenAI MCP-compatible tools)
@@ -50,15 +51,20 @@ I actively contribute to **open-source AI frameworks**, build **agentic architec
 ## 🔥 **Key Open-Source Projects**
 ### **1️⃣ LangChain–Weaviate (Open-Source Contribution)**
 **Role:** Contributor  
-**Impact:** Strengthened LangChain’s Weaviate integration for production RAG systems
+**Pull Request:** *Make simsimd an Optional Dependency with Automatic NumPy/SciPy Fallback for Vector Distance Computation* (#249)
 
 **Key Contributions**
-- Improved retrieval and integration logic aligned with real enterprise RAG workflows
-- Enhanced developer-facing usability and consistency
-- Addressed edge cases observed in production vector DB usage
-- Collaborated with maintainers through PR reviews and iteration
+- Refactored the LangChain–Weaviate integration to make **`simsimd` an optional dependency**
+- Implemented a **robust automatic fallback** to **NumPy / SciPy** for vector distance computation
+- Ensured **graceful degradation** without breaking retrieval or similarity search pipelines
+- Preserved performance optimisations while significantly improving **installation reliability**
+- Addressed real-world CI and production issues in vector database deployments
 
-> This work reflects hands-on experience with **LangChain internals, vector databases, and OSS collaboration at scale**.
+**Why This Matters**
+- Prevents hard dependency failures in production and CI environments
+- Improves compatibility across platforms where SIMD libraries are difficult to install
+- Makes LangChain–Weaviate more **enterprise-ready and deployment-safe**
+- Reflects best practices for optional performance dependencies in OSS AI systems
 
 ---
 
@@ -101,7 +107,7 @@ OpenAI MCP-compatible agent for contextual, health-aware food recommendations.
 - Enterprise-grade **agent frameworks**
 - Advanced **LLM evaluation & guardrails**
 - Production-ready **RAG + orchestration** systems
-- OSS contributions in **LangChain ecosystem**
+- OSS contributions in the **LangChain ecosystem**
 - Publishing **AI engineering case studies**
 
 ---
@@ -168,3 +174,4 @@ I blend **art + AI** to build generative visuals and intelligent agents that int
 ---
 
 <h3 align="center">✨ Thanks for visiting! Let’s build the future of AI together.</h3>
+
