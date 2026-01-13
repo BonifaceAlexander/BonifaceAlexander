@@ -36,9 +36,8 @@ I actively contribute to **open-source AI frameworks**, build **agentic architec
 ## 🏆 **Highlights**
 ### **💡 Thought Leadership & Public Contributions**
 - 🧩 **Merged contributor to LangChain–Weaviate integration**
-  - Implemented production-oriented enhancements to improve **RAG reliability, retrieval workflows, and developer ergonomics**
   - Collaborated via PR review cycles with maintainers
-  - Focused on **real-world vector DB usage patterns**
+  - Focused on **Making simsimd an Optional Dependency with Automatic NumPy/SciPy Fallback**
 - 📝 **Author of a production-grade RAG system case study** (Medium)
 - 📦 **Published a PyPI package** for LLM cost tracking & optimisation
 - 🧪 **Built MCP-based agents** (OpenAI MCP-compatible tools)
