@@ -309,6 +309,6 @@ April 2020 – July 2026
 <h3 align="center">✨ Building practical AI systems that move beyond experimentation into reliable engineering and real-world applications.</h3>
 
 <p align="center">
-  <em>GitHub Profile README | Version 1.1 | Last Updated: 22 November 2026</em>
+  <em>GitHub Profile README | Last Updated: 22 November 2026</em>
 </p>
 
