@@ -1,177 +1,314 @@
+
+<!-- ===================================================== -->
+<!-- BONIFACE ALEXANDER | GITHUB PROFILE -->
+<!--| Updated: 22 November 2026 -->
+<!-- ===================================================== -->
+
 <!-- HEADER BANNER -->
-<h1 align="center">🚀 Boniface Alexander — AI Engineer | LLM Systems | Agentic Automation | GenAI Innovator</h1>
+<h1 align="center">🚀 Boniface Alexander — Enterprise AI Architect | Agentic AI | LLM Engineering</h1>
+
 <p align="center">
-  <strong>Building production-grade Generative AI, RAG systems, enterprise AI agents, and developer tools that scale.</strong><br/>
-  <em>Open-Source Contributor • AI Engineer • Innovator — advancing practical AI for enterprises & developers.</em>
+  <strong>Architecting production-oriented AI systems, intelligent agents, and scalable enterprise Generative AI solutions.</strong><br/>
+  <em>Enterprise AI • Agentic Systems • Open-Source Engineering • RAG • LLM Observability</em>
 </p>
 
 ---
 
-## 🧬 **About Me**
-I’m Bon, an AI Engineer specialising in **LLM-based agent systems**, **retrieval-augmented generation (RAG)**, **AI automation pipelines**, and **real-world GenAI applications**.
+## 🧬 <strong>About Me</strong>
 
-My work focuses on **bridging research-grade LLM capabilities with production systems** — emphasising **reliability, evaluation, cost-awareness, and enterprise readiness**.
+I'm Boniface Alexander (Bon), an Enterprise AI Architect and technology leader focused on designing and engineering reliable, scalable AI systems.
 
-I actively contribute to **open-source AI frameworks**, build **agentic architectures**, deliver **AI lectures**, and publish **technical deep-dives** on modern AI engineering.
+With 10+ years of experience in the technology industry, my journey spans automation engineering, Generative AI, enterprise AI architecture, and engineering leadership.
 
----
+My work focuses on bridging the gap between emerging AI capabilities and enterprise implementation — with particular emphasis on reliability, evaluation, observability, cost optimization, and production readiness.
 
-## 🧠 **What I Do**
-### **🌟 Core Specialisations**
-- **LLM Agents & Multi-Agent Systems**  
-  (planning, tool-use, orchestration, memory, validation agents)
-- **Retrieval-Augmented Generation (RAG)**  
-  (enterprise search, analytics, structured + unstructured data)
-- **AI Automation Pipelines**  
-  (workflow engines, decision agents, data-quality agents)
-- **Model Evaluation & Cost Optimization**  
-  (benchmarks, heuristics, guardrails, token/cost controls)
-- **Python Backend Engineering**  
-  (FastAPI, async systems, data-heavy AI backends)
-- **Generative AI Product Engineering**  
-  (text, vision, structured data, multimodal pipelines)
+I currently work as **Manager – Cloud Data & AI at USEReady**. Previously, I worked at **Verizon**, developing enterprise AI and Generative AI solutions.
+
+I also contribute to open-source AI ecosystems, develop developer-focused AI tools, and share practical AI engineering knowledge through technical publications and academic sessions.
 
 ---
 
-## 🏆 **Highlights**
-### **💡 Thought Leadership & Public Contributions**
-- 🧩 **Merged contributor to LangChain–Weaviate**
-  - Authored PR #249: *Make `simsimd` an Optional Dependency with Automatic NumPy/SciPy Fallback for Vector Distance Computation*
-  - Improved reliability and portability of vector similarity search in RAG pipelines
-  - Reduced installation and CI failures in enterprise deployment environments
-- 📝 **Author of a production-grade RAG system case study** (Medium)
-- 📦 **Published a PyPI package** for LLM cost tracking & optimisation
-- 🧪 **Built MCP-based agents** (OpenAI MCP-compatible tools)
-- 🛠️ **Created multiple LangChain + Gemini agentic frameworks**
-- 🎤 **Delivering AI lectures** on LLMs, RAG, Agents, and Cloud AI
-- 📘 **Published the Learn AI Playbook** (Vercel App)
+## 🧠 <strong>What I Do</strong>
+
+### 🌟 Core Specializations
+
+- **Agentic AI & Multi-Agent Systems**
+  - Planning, tool-use, orchestration, memory and validation agents
+  - Multi-agent workflows and intelligent execution
+
+- **Enterprise Retrieval-Augmented Generation (RAG)**
+  - Vector databases and semantic retrieval
+  - Embedding strategies and knowledge systems
+  - RAG lifecycle management
+
+- **LLM Engineering & Observability**
+  - Token usage and cost attribution
+  - Model pricing and latency monitoring
+  - Evaluation, guardrails and optimization
+
+- **Enterprise AI Architecture**
+  - Production AI workflows
+  - Cloud-native AI solutions
+  - Enterprise data integration
+  - Human-in-the-loop decision systems
+
+- **Python Backend Engineering**
+  - FastAPI, asynchronous systems and data-heavy backends
+
+- **Generative AI Product Engineering**
+  - Text, vision, structured data and multimodal applications
 
 ---
 
-## 🔥 **Key Open-Source Projects**
-### **1️⃣ LangChain–Weaviate (Open-Source Contribution)**
-**Role:** Contributor  
-**Pull Request:** *Make simsimd an Optional Dependency with Automatic NumPy/SciPy Fallback for Vector Distance Computation* (#249)
+## 🏆 <strong>Highlights</strong>
+
+### 💡 Open-Source Contributions & Technical Leadership
+
+- 🧩 **Merged upstream contributor to LangChain–Weaviate**
+  - Authored PR #249.
+  - Made SimSIMD an optional dependency.
+  - Implemented automatic NumPy/SciPy fallback for vector distance computation.
+  - Improved dependency flexibility and deployment compatibility.
+
+- 📦 **Creator of LLM Cost Profiler**
+  - Published Python package on PyPI.
+  - Framework-agnostic LLM observability.
+  - Token, cost, latency and agent-level attribution.
+
+- 🧠 **Creator of Weaviate RAG Lifecycle Manager**
+  - Dataset and embedding lifecycle management.
+  - Index promotion and rollback architecture.
+  - Lifecycle-aware retrieval.
+
+- 🎓 **Invited AI Speaker – College of Engineering, Guindy**
+  - Delivered two AI knowledge-sharing sessions.
+  - Reached approximately 60 students.
+
+- 📝 Technical author and AI engineering case-study contributor.
+- 📘 Creator of Learn AI Playbook.
+- 🧪 Developer of MCP-compatible AI agents and multi-agent systems.
+
+---
+
+## 🔥 <strong>Featured Open-Source Projects</strong>
+
+### 1️⃣ LLM Cost Profiler
+
+**Framework-agnostic LLM observability and cost optimization library.**
+
+A Python library designed to provide visibility into LLM usage, execution costs, latency and agent-level consumption.
+
+**Key Capabilities**
+
+- Token usage and cost tracking
+- Model-specific pricing estimation
+- Latency monitoring
+- LangGraph per-step cost attribution
+- LiteLLM-backed model pricing
+- Local Streamlit observability dashboard
+- JSONL logging and analytics
+
+**Published Version:** `0.2.0`
+
+🔗 [GitHub Repository](https://github.com/BonifaceAlexander/llm-cost-profiler)
+
+📦 [PyPI Package](https://pypi.org/project/llm-cost-profiler/)
+
+---
+
+### 2️⃣ Weaviate RAG Lifecycle Manager
+
+**A lifecycle management framework for production-oriented RAG systems.**
+
+An engineering initiative focused on managing datasets, embedding configurations, index lifecycle operations and retrieval infrastructure.
+
+**Key Capabilities**
+
+- Dataset version management
+- Embedding configuration management
+- DRAFT, STAGING, PRODUCTION and DEPRECATED lifecycle states
+- Index promotion and rollback design
+- Lifecycle-aware retrieval
+- Weaviate metadata management
+- LangChain integration
+
+🔗 [GitHub Repository](https://github.com/BonifaceAlexander/weaviate-rag-lifecycle-manager)
+
+---
+
+### 3️⃣ LangChain–Weaviate Open-Source Contribution
+
+**Merged upstream contribution – PR #249**
+
+Make SimSIMD an Optional Dependency with Automatic NumPy/SciPy Fallback for Vector Distance Computation.
 
 **Key Contributions**
-- Refactored the LangChain–Weaviate integration to make **`simsimd` an optional dependency**
-- Implemented a **robust automatic fallback** to **NumPy / SciPy** for vector distance computation
-- Ensured **graceful degradation** without breaking retrieval or similarity search pipelines
-- Preserved performance optimisations while significantly improving **installation reliability**
-- Addressed real-world CI and production issues in vector database deployments
 
-**Why This Matters**
-- Prevents hard dependency failures in production and CI environments
-- Improves compatibility across platforms where SIMD libraries are difficult to install
-- Makes LangChain–Weaviate more **enterprise-ready and deployment-safe**
-- Reflects best practices for optional performance dependencies in OSS AI systems
+- Made SimSIMD an optional dependency.
+- Implemented automatic NumPy/SciPy fallback.
+- Improved dependency flexibility.
+- Preserved accelerated computation where available.
+- Improved compatibility across deployment environments.
+
+🔗 [View Merged Pull Request #249](https://github.com/langchain-ai/langchain-weaviate/pull/249)
 
 ---
 
-### **2️⃣ VisionPrime – AI Image Studio**
-GenAI image creation, editing, aspect-ratio correction, and automation pipelines using Gemini.
+### 4️⃣ VisionPrime – AI Image Studio
+
+Generative AI image creation, editing, aspect-ratio correction and automation workflows using Gemini.
 
 ---
 
-### **3️⃣ Learn AI Playbook**
-A modern AI learning platform covering:
-- LLM fundamentals  
-- RAG architectures  
-- Agentic AI systems  
-- Cloud-based GenAI patterns  
+### 5️⃣ Learn AI Playbook
+
+An interactive AI learning platform covering:
+
+- LLM fundamentals
+- RAG architectures
+- Agentic AI systems
+- Cloud-based Generative AI patterns
 
 ---
 
-### **4️⃣ LangChain Agentic Pipelines (Multi-Agent Architecture)**
-- Excel → Chart → PowerPoint agents  
-- Natural-language chart annotations  
-- Multi-agent orchestration with tool routing  
-- Production-style agent design
+### 6️⃣ LangChain Agentic Pipelines
+
+Multi-agent architecture demonstrating:
+
+- Excel → Chart → PowerPoint agents
+- Natural-language chart annotations
+- Multi-agent orchestration
+- Intelligent tool routing
 
 ---
 
-### **5️⃣ PyPI: llm-cost-tracker**
-Python package for:
-- Token-level cost tracking  
-- Budget enforcement  
-- Cost-aware LLM execution  
+### 7️⃣ RAG-Talk
+
+An AI-powered conversational retrieval application.
 
 ---
 
-### **6️⃣ MCP Meal Recommendation Agent**
-OpenAI MCP-compatible agent for contextual, health-aware food recommendations.
+### 8️⃣ Story2Test AI
+
+AI-assisted software testing focused on transforming user stories and acceptance criteria into structured test scenarios.
 
 ---
 
-## 📚 **Currently Working On**
-- Enterprise-grade **agent frameworks**
-- Advanced **LLM evaluation & guardrails**
-- Production-ready **RAG + orchestration** systems
-- OSS contributions in the **LangChain ecosystem**
-- Publishing **AI engineering case studies**
+### 9️⃣ MCP Meal Recommendation Agent
+
+An MCP-compatible agent demonstrating contextual tool integration and recommendation workflows.
 
 ---
 
-## 🌐 **Socials**
-<p align="left">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    www.linkedin.com/in/boniface-alexander
-  </a>
-  <a href="YOUR_MEDIUM">
-    <img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/>
-    https://medium.com/@bonnybon7
-  </a>
-</p>
+## 🎓 <strong>Technical Community Contributions</strong>
+
+### College of Engineering, Guindy
+
+Invited to deliver two AI knowledge-sharing sessions at College of Engineering, Guindy.
+
+- Two invited sessions.
+- Approximately 60 students reached.
+- Focus on artificial intelligence and emerging AI engineering concepts.
+
+My interest extends beyond building AI systems to sharing practical engineering knowledge and contributing to the technology community.
 
 ---
 
-## 🧰 **Tech Stack**
+## 💼 <strong>Professional Experience</strong>
+
+**USEReady**  
+Manager – Cloud Data & AI  
+July 2026 – Present
+
+**Verizon**  
+AI Prompt Engineer / GenAI Systems Developer  
+April 2020 – July 2026
+
+**Earlier Experience:** Cognizant | HPE
+
+---
+
+## 🧰 <strong>Tech Stack</strong>
+
 <p align="left">
 
 <!-- Programming -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/LangChain-1E4DE8?style=for-the-badge&logo=python&logoColor=white"/>
+<!-- AI / ML -->
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1E4DE8?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Weaviate-00BFFF?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<!-- Dev / Tools -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<!-- Cloud / Data -->
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<!-- Engineering -->
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🧩 **Engineering Patterns I Work With**
-- Multi-agent LLM architectures  
-- Agent tool-use & orchestration  
-- Enterprise RAG with vector databases  
-- AI-driven data validation frameworks  
-- Natural-language charting & annotation  
-- Cost-aware, evaluation-first AI systems  
+## 🧩 <strong>Engineering Principles & Patterns</strong>
+
+- Multi-agent LLM architectures
+- Agent tool-use and orchestration
+- Enterprise RAG with vector databases
+- AI-driven data validation frameworks
+- Natural-language charting and annotation
+- Cost-aware, evaluation-first AI systems
+- Production observability and reliability
+- Human-in-the-loop AI governance
 
 ---
 
-## 📈 **What I’m Looking For**
-- Collaborations on **AI workflow automation**, **RAG**, **LLM agents**
-- Open-source work in **LangChain, vector DBs, agent frameworks**
-- AI engineering opportunities across **UK, EU, and global markets**
+## 📚 <strong>Currently Working On</strong>
+
+- Enterprise-grade agent frameworks
+- Advanced LLM evaluation and guardrails
+- Production-ready RAG and orchestration systems
+- Open-source AI infrastructure
+- LLM observability and cost optimization
+- Technical publications and engineering case studies
 
 ---
 
-## 🌟 **Fun Fact**
-I blend **art + AI** to build generative visuals and intelligent agents that interact creatively with users.
+## 🌍 <strong>Professional Interests</strong>
+
+- Collaborations on enterprise AI architecture and Agentic AI.
+- Open-source development across LangChain, Weaviate and AI infrastructure.
+- Sharing practical AI engineering knowledge.
+- Building globally relevant enterprise AI solutions.
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! Let’s build the future of AI together.</h3>
+## 🌐 <strong>Socials</strong>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/boniface-alexander">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@bonnybon7">
+    <img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Building practical AI systems that move beyond experimentation into reliable engineering and real-world applications.</h3>
+
+<p align="center">
+  <em>GitHub Profile README | Version 1.1 | Last Updated: 22 November 2026</em>
+</p>
 
